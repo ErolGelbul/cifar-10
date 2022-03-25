@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-This is an old project, I made with TensorFlow v2.5. There are certain functions removed in the new versions of Tensorflow. 
+This is an old project I made with TensorFlow v2.5. There are certain functions removed in the new versions of Tensorflow. 
 I fixed up and updated everything up until the evaluation phase. At this point I can't spend more time on it.
 If you wish to fix the errors, be my guest (problems start at stage 5), although I don't recommend spending more
 time with tensorflow. PyTorch is definently more superior in my opinion and I will recreate this project at some
